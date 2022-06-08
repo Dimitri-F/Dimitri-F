@@ -12,7 +12,9 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning Vue.js, Nuxt.js and VueX.
+- 💬 Ask me about HTML, CSS and JS.
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Dimitri-F&show_icons=true)
   
