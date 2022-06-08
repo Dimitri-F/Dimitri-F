@@ -1,6 +1,6 @@
 
-<img align="left" src="img/avatar-visage.png"/>
- #Dimitri F : Développeur web junior
+`<img align="left" src="img/avatar-visage.png"/>`
+ ##Dimitri F : Développeur web junior
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
           
