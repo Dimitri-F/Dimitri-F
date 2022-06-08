@@ -13,6 +13,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 </div>
 
+![GHstats](https://github-redame-stats.vercel.app/api?username=Dimitri-F&show_icons=true)
   
 <!--
 **Dimitri-F/Dimitri-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
