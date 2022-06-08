@@ -1,5 +1,5 @@
   <div  align="center"> 
-    <h1>Dimitri F : front-end developer</h1>
+    <h1>Dimitri F : Front-end developer</h1>
   <p>Languages and tools</p>
 
 ![CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
