@@ -2,7 +2,7 @@
 <div>
 <img align="left" src="img/avatar-visage.png"/>
   <div  align="center"> 
-    <h1>Dimitri F : Développeur web junior</h1>
+    #Dimitri F : Développeur web junior
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
           
