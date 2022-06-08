@@ -15,7 +15,10 @@
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Dimitri-F&show_icons=true)
 --------------------------------------------------------------------------------------------------------------------------------------------------
  </div> 
-* 🔭 I’m currently working on my portfolio
-* 🌱 I’m currently learning Vue.js, Nuxt.js and VueX.
-* 💬 Ask me about HTML, CSS and JS.
+ <ul>
+  <li>🔭 I’m currently working on my portfolio.</li>
+  <li>🌱 I’m currently learning Vue.js, Nuxt.js and VueX.</li>
+  <li>💬 Ask me about HTML, CSS and JS.</li>
+</ul>
+ 
 
