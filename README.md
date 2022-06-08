@@ -1,8 +1,8 @@
 
 <img align="left" src="img/avatar-visage.png"/>
   <div  align="center"> 
-    <h1>Dimitri F : Développeur front-end junior</h1>
-  <p style="color: blue">Languages and tools</p>
+    <h1>Dimitri F : front-end developer</h1>
+  <p>Languages and tools</p>
 
 ![CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
