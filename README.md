@@ -1,6 +1,4 @@
-### Hi there 👋
-<img src="img/banniere.png"/>
-<hr>
+
 <div>
 <img align="left" src="img/avatar-visage.png"/>
   <div  align="center"> 
