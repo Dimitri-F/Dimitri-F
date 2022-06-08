@@ -1,5 +1,3 @@
-
-<img align="left" src="img/avatar-visage.png"/>
   <div  align="center"> 
     <h1>Dimitri F : front-end developer</h1>
   <p>Languages and tools</p>
