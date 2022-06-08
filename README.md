@@ -15,9 +15,9 @@
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Dimitri-F&show_icons=true)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
  </div> 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Vue.js, Nuxt.js and VueX.
-- 💬 Ask me about HTML, CSS and JS.
+* 🔭 I’m currently working on my portfolio
+*🌱 I’m currently learning Vue.js, Nuxt.js and VueX.
+* 💬 Ask me about HTML, CSS and JS.
 <!--
 **Dimitri-F/Dimitri-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
