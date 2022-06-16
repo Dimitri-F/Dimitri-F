@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimitri F.</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h2 align="center">A passionate frontend developer from France</h2>
 
 - 🌱 I’m currently learning **Vue.js, Nuxt.js and VueX.**
 
