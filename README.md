@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je suis Dimitri F.</h1>
-<h2 align="center">Un développeur front-end passionné de France</h2>
+<h2 align="center">Un concepteur développeur d'applications</h2>
 
-- 🌱 Je suis actuellement en train d'apprendre ** Vue.js **.
+- 🌱 Je suis actuellement en formation **.
 
 - 💬 Posez-moi des questions sur ** HTML, CSS et JS **.
 
