@@ -1,8 +1,6 @@
 <h1 align="center">Bonjour 👋, je suis Dimitri F.</h1>
 <h2 align="center">Un concepteur développeur d'applications</h2>
 
-- 🌱 Je suis actuellement en formation **.
-
 - 💬 Posez-moi des questions sur ** HTML, CSS et JS **.
 
 <h3 align="left">Langues et outils de développement :</h3>
